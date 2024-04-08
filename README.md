@@ -4,8 +4,6 @@
 
 <h2 align="left">About me</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adriadejuan&label=Profile%20views&color=0e75b6&style=flat" alt="adriadejuan" /> </p>
-
 - 📚 I have a **BSc in Mathematics** from the University of Barcelona
 
 - 🌱 I’m currently learning **MSc in Data Science**, which has a strong component in **Deep Learning**
@@ -39,6 +37,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
 </div>
 
+<h2 align="left"> </h2>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adriadejuan&label=Profile%20views&color=0e75b6&style=flat" alt="adriadejuan" /> </p>
 
 <!--
 **adriadejuan/adriadejuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
