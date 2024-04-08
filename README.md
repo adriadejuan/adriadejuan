@@ -14,7 +14,7 @@
 
 - 📫 How to reach me: **adriadejuan22@gmail.com**
 
-- 📄 Know about my experiences (CV): [dejuan.me](www.dejuan.me)
+- 📄 Know about my experiences (CV): [dejuan.me](https://dejuan.me/)
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
