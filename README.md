@@ -6,6 +6,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adriadejuan&label=Profile%20views&color=0e75b6&style=flat" alt="adriadejuan" /> </p>
 
+- 📚 I have a **BSc in Mathematics** from the University of Barcelona
+
 - 🌱 I’m currently learning **MSc in Data Science**, which has a strong component in **Deep Learning**
 
 - 🔭 I’m currently working as a **Strategy Consultant** in [KPMG](https://kpmg.com/es/es/home.html)
