@@ -6,7 +6,7 @@
 
 - 📚 I have a **BSc in Mathematics** from the University of Barcelona
 
-- 🌱 I’m currently learning **MSc in Data Science**, which has a strong component in **Deep Learning**
+- 🌱 I have a **MSc in Data Science**, which has a strong component in **Artificial Intelligence** and **Deep Learning**
 
 - 🔭 I’m currently working as a **Strategy Consultant** in [KPMG](https://kpmg.com/es/es/home.html)
 
