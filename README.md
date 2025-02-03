@@ -67,7 +67,7 @@
 
 <h2 align="left">External</h2>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/adriadejuan22?theme=dark&font=Arima%20Madurai)
+![LeetCode Stats](https://leetcard.jacoblin.cool/adriadejuan?theme=dark&font=Arima%20Madurai)
 
 <!--
 **adriadejuan/adriadejuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
