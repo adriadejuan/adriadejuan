@@ -65,7 +65,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adriadejuan&label=Profile%20views&color=0e75b6&style=flat" alt="adriadejuan" /> </p>
 
-<h2 align="left">External</h2>
+<h2 align="left">Other services</h2>
+
+- [LeetCode](https://leetcode.com/u/adriadejuan/)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/adriadejuan?theme=dark&font=Arima%20Madurai)
 
