@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋</h1>
 
-<p align="left">My name is Adrià and I'm an aspiring Machine Learning Engineer from Barcelona, Spain.</p>
+<p align="left">My name is Adrià and I'm a Data Analyst from Barcelona, Spain 🇪🇸</p>
 
 <h2 align="left">About me</h2>
 
@@ -8,13 +8,13 @@
 
 - 🌱 I have a **MSc in Data Science**, which has a strong component in **Artificial Intelligence** and **Deep Learning**
 
-- 🔭 I’m currently working as a **Strategy Consultant** in [KPMG](https://kpmg.com/es/es/home.html)
+- 💻 I’m currently working as a **Data Analyst** in [Glovo](https://glovoapp.com/)
+
+- 🔭 I used to work as a **Strategy Consultant** in [KPMG](https://kpmg.com/es/es/home.html)
 
 - 🎯 I aim to harness the power of artificial intelligence and available data to enhance **decision-making** processes
 
 - 📫 How to reach me: **adriadejuan22@gmail.com**
-
-- 📄 Know about my experiences (CV): [dejuan.me](https://dejuan.me/)
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
