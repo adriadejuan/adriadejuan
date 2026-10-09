@@ -8,9 +8,9 @@
 
 - 🌱 I have a **MSc in Data Science**, which has a strong component in **Artificial Intelligence** and **Deep Learning**
 
-- 💻 I’m currently working as a **Data Analyst** in [Glovo](https://glovoapp.com/)
+- 💻 I’m currently working as a **Data Scientist** in [Banc Sabadell](https://www.bancsabadell.com/bsnacional/es/particulares/)
 
-- 🔭 I used to work as a **Strategy Consultant** in [KPMG](https://kpmg.com/es/es/home.html)
+- 🔭 I used to work as a **Strategy Consultant** at [KPMG](https://kpmg.com/es/es/home.html) and **Data Analyst** at [Glovo](https://glovoapp.com/)
 
 - 🎯 I aim to harness the power of artificial intelligence and available data to enhance **decision-making** processes
 
